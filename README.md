@@ -1,6 +1,6 @@
 # PostgreSQL
 
-Este repositorio contiene la resolución de las pruebas de evaluación continua de la asignatura "Bases de datos para Data Warehousing" (Sep22-Ene23) en la UOC por la alumna Gloria Manresa.
+Este repositorio contiene la resolución de las pruebas de evaluación continua de la asignatura "Bases de datos para Data Warehousing", Sep22-Ene23.
 
 # Estructura del Repositorio
 
